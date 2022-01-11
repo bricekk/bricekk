@@ -1,4 +1,4 @@
-### Hi there 👋
+## <ins>Hi there<ins/> 👋
 
 ![Cover](https://github.com/bricekk/bricekk/blob/main/banner.gif)
 
