@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+![Cover](https://github.com/bricekk/bricekk/edit/main/cover.jpg)
+
 <!--
 **bricekk/bricekk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
