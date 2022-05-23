@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
   
   
-  ## ![Visitor Count](https://profile-counter.glitch.me/bricekk/count.svg)
+  <p align="center">## ![Visitor Count](https://profile-counter.glitch.me/bricekk/count.svg)</p>
   
   <details>
     <summary>Languages statistics</summary>
