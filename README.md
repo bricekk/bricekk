@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
   
   <h1 align="center">
-    ![Visitor Count](https://profile-counter.glitch.me/bricekk/count.svg)
+    ## ![Visitor Count](https://profile-counter.glitch.me/bricekk/count.svg)
   </h1>  
   <details>
     <summary>Languages statistics</summary>
