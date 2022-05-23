@@ -15,9 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
   
-  
-  <p align="center">![Visitor Count](https://profile-counter.glitch.me/bricekk/count.svg)</p>
-  
+  <h1 align="center">
+    ![Visitor Count](https://profile-counter.glitch.me/bricekk/count.svg)
+  </h1>  
   <details>
     <summary>Languages statistics</summary>
       <p align="center">
