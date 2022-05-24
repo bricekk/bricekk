@@ -18,10 +18,10 @@ Here are some ideas to get you started:
 
 ## <p align="center">![Visitor Count](https://profile-counter.glitch.me/bricekk/count.svg)</p>
 
-## <details>
+<details>
     <summary>Languages statistics</summary>
       <p align="center">
-         <img src="https://wakatime.com/share/@92d8a302-ee4d-4020-88e7-88afcd621a9d/87f0c122-a315-4bd1-96df-ebacb7d97d84.svg" height="400">
+ ##         <img src="https://wakatime.com/share/@92d8a302-ee4d-4020-88e7-88afcd621a9d/87f0c122-a315-4bd1-96df-ebacb7d97d84.svg" height="400">
       </p>
     </summary>
   </details>
