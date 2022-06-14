@@ -21,8 +21,6 @@ Here are some ideas to get you started:
 <details>
     <summary>Languages statistics</summary>
       <p align="center">
-        <img src="https://wakatime.com/share/@92d8a302-ee4d-4020-88e7-88afcd621a9d/f2887a37-c885-43da-a79e-556077b1b61b.svg" height="400">
-
+        <img src="https://wakatime.com/share/@92d8a302-ee4d-4020-88e7-88afcd621a9d/6c0c8244-4e63-4d47-93e0-99bb31879e4b.svg" height="400">
       </p>
-    </summary>
 </details>
