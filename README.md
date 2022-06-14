@@ -22,7 +22,7 @@ Here are some ideas to get you started:
     <summary>Languages statistics</summary>
       <p align="center">
         <img src="https://wakatime.com/share/@92d8a302-ee4d-4020-88e7-88afcd621a9d/87f0c122-a315-4bd1-96df-ebacb7d97d84.svg" height="400">
-        <figure><embed src="https://wakatime.com/share/@92d8a302-ee4d-4020-88e7-88afcd621a9d/7e91f510-5efa-47d8-bf2e-7fafd65c9625.svg"></embed></figure>
+        <img src="https://wakatime.com/share/@92d8a302-ee4d-4020-88e7-88afcd621a9d/7e91f510-5efa-47d8-bf2e-7fafd65c9625.svg" height="400"/>
       </p>
     </summary>
 </details>
