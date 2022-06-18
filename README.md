@@ -1,7 +1,5 @@
 ![Cover](https://github.com/bricekk/bricekk/blob/main/banner.gif)
 
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on my sides projects ( Mobile App )
 - 🌱 I’m currently learning data structures in Dart and Kotlin
 - 👯 I’m looking to collaborate on every kind of project
