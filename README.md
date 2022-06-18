@@ -1,6 +1,5 @@
 ![Cover](https://github.com/bricekk/bricekk/blob/main/banner.gif)
 
-<!--
 **bricekk/bricekk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -13,14 +12,5 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
-  
 
-## <p align="center">![Visitor Count](https://profile-counter.glitch.me/bricekk/count.svg)</p>
-
-<details>
-    <summary>Languages statistics</summary>
-      <p align="center">
-        <img src="https://wakatime.com/share/@92d8a302-ee4d-4020-88e7-88afcd621a9d/6c0c8244-4e63-4d47-93e0-99bb31879e4b.svg" height="400">
-      </p>
-</details>
+ 
