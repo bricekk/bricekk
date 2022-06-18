@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning data structures in Dart and Kotlin
 - 👯 I’m looking to collaborate on every kind of project
 - 🤔 I’m looking for help with Docker deployment
-- 💬 Ask me about Dart and Flutter stuffs
+- 💬 Ask me about mobile development
 - 📫 How to reach me: bricekamhoua20@gmail.com
 - ⚡ Fun fact: I'm Funny
  
